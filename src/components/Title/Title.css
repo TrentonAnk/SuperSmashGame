@@ -1,0 +1,10 @@
+.title {
+  width: 100%;
+  text-align: center;
+  font-size: 4rem;
+  color:white;
+  margin-bottom: 50px;
+  border-bottom: 5px solid white;
+  border-color: white;
+  font-family: fantasy
+}
